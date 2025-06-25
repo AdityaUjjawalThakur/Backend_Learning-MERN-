@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University</title>
+    <link rel="stylesheet" href="c.css">
+</head>
+<body>
+    <h1>Aditya School Of Mangement</h1>
+    <h3>Enter Data To Register</h3>
+    <div class="Register">
+        <form action="/students" method="post">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name">
+            <label for="usn">USN<label>
+            <input type="text" name="usn" id="usn">
+            <label for="Batch">Batch</label>
+            <input type="text" name="batch" id="batch">
+            <button class="btn">Submit</button>
+        </form>
+        <div class="data">
+            <form action="/data">
+                <button class="data">Get All Students</button>
+            </form>
+
+        </div>
+        <a href="http://localhost:3000/edit">Edit</a>
+        <a href="http://localhost:3000/delete">Delete</a>
+        
+       
+        
+    
+
+    </div>
+    <script src="j.js"></script>
+    
+    
+</body>
+</html>

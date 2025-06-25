@@ -1,0 +1,28 @@
+*{
+    background-color: aquamarine;
+}
+h1{
+
+    color: brown;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 600px;
+}
+.Register{
+   display: flex;
+   flex-direction: column;
+   margin: 10px;
+   border: 10px;
+   padding: 10px;
+   
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border: 10px black;
+    font-weight: bold;
+}
+.data{
+    margin: 20px;
+    
+}
