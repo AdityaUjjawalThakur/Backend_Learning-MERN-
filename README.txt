@@ -1,5 +1,46 @@
-# Backend_Learning-MERN-
-// Express.js Learning Roadmap
+# Backend_Learning-MERN
+
+This repository is a curated collection of small backend projects and practical implementations built while learning various core concepts of backend development using Node.js and Express.js. Each folder in this repository represents a separate topic or technique, designed to solidify backend fundamentals and demonstrate real-world applications.
+
+ Authentication
+- **Authentication from Scratch**: Manual implementation of user authentication without any external libraries.
+- **Authentication with JWT**: Token-based authentication using JSON Web Tokens.
+- **Authentication with Passport.js**: Using the Passport.js library for modular authentication strategies.
+
+ Cookies & Session
+- **Cookies**: Working with HTTP cookies to store and retrieve user data securely.
+- **Session Management**: Implementing sessions to maintain user login states and handle authentication workflows.
+
+###  Routing
+- **Routers**: Learning how to organize routes using Express routers for cleaner and modular code structure.
+
+### 🛢️ Databases
+- **Database Integration**: Connecting and interacting with databases (e.g., MongoDB, MySQL) to perform CRUD operations.
+
+---
+
+ Purpose
+
+The goal of this repository is to:
+- Practice and apply backend concepts hands-on.
+- Create a reference point for revisiting and revising backend techniques.
+- Serve as building blocks for larger projects using the MERN stack.
+
+---
+
+## 🛠️ Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB / MySQL
+- Passport.js
+- JWT
+- Cookie-parser & Express-session
+
+---
+
+# Backend_Learning-MERN- Roadmap Followed
+
 // 1. Basics of Express.js
 // Setting up an Express server.
 // Understanding the app object.
