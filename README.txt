@@ -14,7 +14,7 @@ This repository is a curated collection of small backend projects and practical 
 ###  Routing
 - **Routers**: Learning how to organize routes using Express routers for cleaner and modular code structure.
 
-### 🛢️ Databases
+###  Databases
 - **Database Integration**: Connecting and interacting with databases (e.g., MongoDB, MySQL) to perform CRUD operations.
 
 ---
@@ -28,7 +28,7 @@ The goal of this repository is to:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
